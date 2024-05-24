@@ -1,0 +1,1 @@
+(self.webpackChunk_08_webpack_node_study=self.webpackChunk_08_webpack_node_study||[]).push([[233],{493:()=>{document.querySelector(".box-right .login .float-back .login-back").addEventListener("click",(e=>{e.preventDefault(),"a"===e.target.localName&&confirm("确定退出？")&&(localStorage.clear(),location.href="../login/login.html")}))}}]);
